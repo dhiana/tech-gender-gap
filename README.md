@@ -20,3 +20,6 @@ List of initiatives and infos about women in tech and the industry's gender gap
 ##Decks
 ###en Español
 * [Desarollando Desarolladoras](http://www.slideshare.net/ThoughtWorks/desarrollando-desarrolladoras?utm_campaign=careers&utm_medium=social&utm_source=twitter) by [Carla Suárez](https://twitter.com/carlast22), presented @ [latinity.conf](latinity.info)
+
+#Contributing
+I would love this list to be collaborative, so your contribution is pretty welcome! You can do so by [sending a pull request](https://help.github.com/articles/creating-a-pull-request/)
