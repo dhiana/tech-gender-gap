@@ -16,3 +16,7 @@ List of initiatives and infos about women in tech and the industry's gender gap
 ##Documentaries
 * [Code Girl](http://www.codegirlmovie.com/)
 * [CODE: Debugging the Gender Gap](http://www.codedocumentary.com/)
+
+##Decks
+###en Español
+* [Desarollando Desarolladoras](http://www.slideshare.net/ThoughtWorks/desarrollando-desarrolladoras?utm_campaign=careers&utm_medium=social&utm_source=twitter) by [Carla Suárez](https://twitter.com/carlast22), presented @ [latinity.conf](latinity.info)
