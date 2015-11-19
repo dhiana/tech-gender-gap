@@ -10,4 +10,4 @@ List of initiatives and infos about tech's industry gender gap
 * [What are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252#.l4b2hslrk) by [Tracy Chou](https://twitter.com/triketora)
 
 ##Talks
-* [It Takes a Village to Make a Programmer](https://www.youtube.com/watch?v=FHNrw7aiKOE) by (Michele Guido)[https://twitter.com/sheley] @ JSConf EU
+* [It Takes a Village to Make a Programmer](https://www.youtube.com/watch?v=FHNrw7aiKOE) by [Michele Guido](https://twitter.com/sheley) @ JSConf EU
