@@ -12,3 +12,7 @@ List of initiatives and infos about women in tech and the industry's gender gap
 
 ##Talks
 * [It Takes a Village to Make a Programmer](https://www.youtube.com/watch?v=FHNrw7aiKOE) by [Michele Guido](https://twitter.com/sheley) @ JSConf EU
+
+##Documentaries
+* [Code Girl](http://www.codegirlmovie.com/)
+* [CODE: Debugging the Gender Gap](http://www.codedocumentary.com/)
