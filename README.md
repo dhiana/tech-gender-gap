@@ -1,10 +1,12 @@
 # tech-gender-gap
 List of initiatives and infos about women in tech and the industry's gender gap
 
-##Open source initiatives
+##Open source
 * [Women In Software Engineering](https://github.com/triketora/women-in-software-eng): Collects the numbers of female representation in software engineering industry. Data can be seen [here](https://docs.google.com/spreadsheets/d/1BxbEifUr1z6HwY2_IcExQwUpKPRZY3FZ4x4ZFzZU-5E/edit#gid=0)
 * [Narrow the Gap](https://github.com/ginatrapani/narrowthegapp): A single-serving web site displays the wage gap between men and women in the United States on a per-occupation basis.
 * [Convide Uma Mulher](https://github.com/guipdutra/convideumamulher): Brazilian initiative that gathers women speakers' contact to promote their invitation in all kinds of events.
+
+##Initiatives
 * [Black Girls Code](http://www.blackgirlscode.com/): Black Girls CODE is devoted to showing the world that black girls can code, and do so much more.
 * [Celebrating Ada](http://info.thoughtworks.com/ada2015.html)
 
