@@ -31,6 +31,7 @@ List of initiatives and infos about women in tech and the industry's gender gap
 ##Events
 * [Rails Girls](http://railsgirls.com/)
 * [Django Girls](https://djangogirls.org/)
+* [PyLadies](http://www.pyladies.com)
 
 #Contributing
 I would love this list to be collaborative, so your contribution is pretty welcome! You can do so by [sending a pull request](https://help.github.com/articles/creating-a-pull-request/)
