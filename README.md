@@ -25,6 +25,9 @@ List of initiatives and infos about women in tech and the industry's gender gap
 ###en Español
 * [Desarollando Desarolladoras](http://www.slideshare.net/ThoughtWorks/desarrollando-desarrolladoras?utm_campaign=careers&utm_medium=social&utm_source=twitter) by [Carla Suárez](https://twitter.com/carlast22), presented @ [latinity.conf](latinity.info)
 
+###em Português
+* [Tecnologia & Computação e o Hiato de Gênero](http://pt.slideshare.net/nataliarsand/tecnologia-computao-o-hiato-de-gnero) by [Natalia Arsand](https://twitter.com/nataliarsand)
+
 ##Events
 * [Rails Girls](http://railsgirls.com/)
 * [Django Girls](https://djangogirls.org/)
