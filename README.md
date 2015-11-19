@@ -7,7 +7,7 @@ List of initiatives and infos about tech's industry gender gap
 * [Convide Uma Mulher](https://github.com/guipdutra/convideumamulher): Brazilian initiative that gathers women speakers' contact to promote the invitation of women in all kinds of events.
 
 ##Articles
-*[What are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252#.l4b2hslrk) by [Tracy Chou](https://twitter.com/triketora)
+* [What are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252#.l4b2hslrk) by [Tracy Chou](https://twitter.com/triketora)
 
 ##Videos
 *
